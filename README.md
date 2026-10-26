@@ -1,5 +1,5 @@
 # Caso-A-segundo-Corte-
-Repositorio academico para una empresa de viajes (Fly Better) en un entorno academico
+Repositorio academico para una agencia de viajes (Fly Better) en un entorno academico
 
 LOGO DE LA AGENCIA: 
 
